@@ -1,6 +1,6 @@
 # MC Chat Support
 
-For help with MC Chat, email [me@u9g.dev](mailto:me@u9g.dev).
+For help with MC Chat, email [mc-chat@u9g.dev](mailto:mc-chat@u9g.dev).
 
 Common questions:
 

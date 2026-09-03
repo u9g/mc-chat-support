@@ -18,6 +18,6 @@ The backend keeps short-lived technical logs (connection errors, session start a
 
 ## Deletion and questions
 
-To have the stored sign-in tokens for your device deleted, or for any other question, email [me@u9g.dev](mailto:me@u9g.dev).
+To have the stored sign-in tokens for your device deleted, or for any other question, email [mc-chat@u9g.dev](mailto:mc-chat@u9g.dev).
 
 MC Chat is not an official Minecraft product and is not approved by or associated with Mojang or Microsoft.
